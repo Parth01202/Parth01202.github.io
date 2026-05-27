@@ -48,36 +48,6 @@ Portfolio/
 └── README.md       # This file
 ```
 
-## 🚀 Getting Started
-
-1. Clone or download this repository
-2. Open `index.html` in a web browser
-3. No build process or dependencies required - it's ready to use!
-
-## 🌐 Deployment
-
-This portfolio can be easily deployed to:
-- **GitHub Pages**: Simply push to a GitHub repository and enable Pages
-- **Netlify**: Drag and drop the folder or connect via Git
-- **Vercel**: Connect your repository for automatic deployments
-- **Any static hosting service**: The site is fully static and ready to deploy
-
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 🎨 Customization
-
-To customize the portfolio:
-
-1. **Colors**: Edit CSS variables in `styles.css` (root section)
-2. **Content**: Update text in `index.html`
-3. **Sections**: Add or remove sections as needed
-4. **Styling**: Modify `styles.css` for different layouts
-
 ## 📧 Contact
 
 - **Email**: Parth72147@icloud.com
